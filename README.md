@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/byung hak ko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="byung hak ko" height="30" width="40" /></a>
+<a href="https://fb.com/kobyunghak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kobyunghak" height="30" width="40" /></a>
 <a href="https://instagram.com/byunghak_ko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="byunghak_ko" height="30" width="40" /></a>
 </p>
 
