@@ -1,4 +1,7 @@
 <h2>🧑🏻‍💻 KoByunghak</h2> 
+
+👉 <a href="https://apps.apple.com/app/id6444302778">Mine(마인) - 산책 게임 서비스 (앱스토어 링크)</a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benghak&show_icons=true&locale=en" alt="benghak" /></p>
 
 <!-- 🔭 I’m currently working on [spring-chatting-server](https://github.com/bengHak/spring-chatting-server)  
