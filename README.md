@@ -1,46 +1,57 @@
-<h2>🧑🏻‍💻 KoByunghak</h2> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benghak&show_icons=true&locale=en" alt="benghak" /></p>
-
-<!-- 🔭 I’m currently working on [spring-chatting-server](https://github.com/bengHak/spring-chatting-server)  
-🌱 I’m currently learning **Spring**  
-📝 I regularly write articles on [https://benghak.github.io/](https://benghak.github.io/)  
-📫 How to reach me **qkwl4678@gmail.com**  -->
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p> -->
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kobyunghak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kobyunghak" height="30" width="40" /></a>
-<a href="https://instagram.com/byunghak_ko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="byunghak_ko" height="30" width="40" /></a>
-</p> -->
+<div align="center">
+  <h1>🧑🏻‍💻 Ko Byunghak</h1>
+  <p><b>Backend Developer</b> · Spring · React · Flutter</p>
+  <p>
+    🔭 Currently working on <a href="https://github.com/bengHak/spring-chatting-server">spring-chatting-server</a><br/>
+    🌱 Currently learning <b>Spring</b><br/>
+    📝 Blog · <a href="https://benghak.github.io/">benghak.github.io</a>
+  </p>
+</div>
 
 <br/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=benghak&label=Profile%20views&color=0e75b6&style=flat" alt="benghak" /> </p> -->
 
+<!-- lowlighter/metrics 카드 (GitHub Actions로 자동 생성됨) -->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
-<!--
-**bengHak/bengHak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,flutter,mysql,postgresql,docker,aws,tensorflow,git&perline=5" alt="Tech Stack" />
+</p>
 
-### Hi there 👋
-[![bengHak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengHak)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbengHak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:qkwl4678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-qkwl4678%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://benghak.github.io/">
+    <img src="https://img.shields.io/badge/Blog-benghak.github.io-000000?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+<!-- 
+  === 설정 안내 (이 부분은 나중에 지워도 됩니다) ===
+
+  1. GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
+     에서 새 토큰을 만드세요. (최소 public_repo 권한 권장, private 레포도 보려면 repo)
+
+  2. 이 저장소 Settings → Secrets and variables → Actions 에서
+     Name: METRICS_TOKEN
+     Value: (방금 만든 토큰)
+     으로 등록하세요.
+
+  3. Actions 탭 → Metrics 워크플로우 → Run workflow 를 한 번 실행하세요.
+
+  4. 성공하면 github-metrics.svg 파일이 생성되고 프로필에 예쁜 카드가 표시됩니다.
+
+  원하면 워크플로우 파일(.github/workflows/metrics.yml)에서
+  plugin_achievements, plugin_lines, plugin_habits 등을 추가로 켜보세요!
 -->
