@@ -31,12 +31,12 @@ jobs:
           config_output: svg
           config_animations: yes
 
-          # === Base 섹션 (헤더 + 활동 + 커뮤니티 + 레포 + 메타) ===
+          # === Base 섹션 ===
           base: header, activity, community, repositories, metadata
 
-          # === Isometric Commit Calendar (3D 느낌의 잔디) ===
+          # === Isometric Commit Calendar (3D 잔디) - full-year로 변경 ===
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
           # === Languages ===
           plugin_languages: yes
